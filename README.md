@@ -26,6 +26,7 @@ Never enter:
 ZIP code, age, and medication information are usually sufficient for plan analysis.
 
 ## Files
+```text
 
 - SecretPlan
 │
@@ -37,3 +38,5 @@ ZIP code, age, and medication information are usually sufficient for plan analys
 │   └── sample-completed-template.md
 └── docs
     └── methodology.md
+```
+
