@@ -45,3 +45,5 @@ ZIP code, age, and medication information are usually sufficient for plan analys
 ```
 
 Users are responsible for verifying plan details with Medicare.gov, CMS, and plan sponsors before making enrollment decisions.
+
+Authors: Copilot, Claude, Chat and human contributer Neil Goldenberg.
