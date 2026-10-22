@@ -18,6 +18,16 @@ All results should be treated as decision-support information.
 
 ---
 
+## Repository Philosophy
+
+The objective of SecretPlan is not to recommend a plan.
+
+The objective is to create a repeatable, evidence-based process for evaluating Medicare Part D plans.
+
+The methodology is more important than any individual recommendation.
+
+---
+
 # Core Principles
 
 ## 1. Verify Before Recommending
