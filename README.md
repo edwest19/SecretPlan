@@ -1,10 +1,13 @@
 # SecretPlan
 
-A free, open-source Medicare Part D plan comparison prompt. 
+A free, open-source Medicare Part D plan comparison prompt for education and research only. 
 
 Generic Medicare Part D plan comparison and analysis prompt for AI.
 
 The goal is to help people evaluate Medicare prescription drug plans using documented, evidence-based research rather than advertisements or incomplete cost comparisons.
+
+> [!WARNING]
+> SecretPlan is an educational and research tool only. It does not provide medical, healthcare, insurance, legal, tax, or financial advice. Always verify important information with Medicare.gov, CMS, plan sponsors, pharmacists, physicians, or other qualified professionals before making healthcare or enrollment decisions.
 
 ## Features
 
@@ -30,6 +33,7 @@ ZIP code, age, and medication information are usually sufficient for plan analys
 
 - SecretPlan
 │
+├── Disclaimer.md
 ├── README.md
 ├── LICENSE
 ├── Medicare-Part-D-Analysis-Prompt.md
