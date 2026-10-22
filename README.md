@@ -40,6 +40,7 @@ ZIP code, age, and medication information are usually sufficient for plan analys
 ├── examples
 │   ├── high-cost-specialty-drugs-example.md
 │   └── sample-completed-template.md
+│   └── Results-Completed-Sample.md
 └── docs
     └── methodology.md
 ```
