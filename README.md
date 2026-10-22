@@ -34,7 +34,7 @@ ZIP code, age, and medication information are usually sufficient for plan analys
 ├── LICENSE
 ├── Medicare-Part-D-Analysis-Prompt.md
 ├── examples
-│   ├── blank-template.md
+│   ├── high-cost-specialty-drugs-example.md
 │   └── sample-completed-template.md
 └── docs
     └── methodology.md
